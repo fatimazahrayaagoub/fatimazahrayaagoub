@@ -161,7 +161,6 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
       <td align="center" width="180">
         <b>AMAZIGH</b>
         <br/>
-        <sub>01 · Native</sub>
       </td>
       <td align="center" width="180">
         <img src="https://img.shields.io/badge/NATIVE-F4A7C5?style=flat-square&labelColor=FFF0F6" alt="Native" />
@@ -171,7 +170,6 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
       <td align="center">
         <b>ARABIC</b>
         <br/>
-        <sub>02 · Native</sub>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/NATIVE-F4A7C5?style=flat-square&labelColor=FFF0F6" alt="Native" />
@@ -181,7 +179,6 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
       <td align="center">
         <b>SPANISH</b>
         <br/>
-        <sub>03 · Advanced</sub>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/ADVANCED-C5A3F5?style=flat-square&labelColor=F7F0FF" alt="Advanced" />
@@ -191,7 +188,6 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
       <td align="center">
         <b>FRENCH</b>
         <br/>
-        <sub>04 · Intermediate</sub>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/INTERMEDIATE-C5A3F5?style=flat-square&labelColor=F7F0FF" alt="Intermediate" />
@@ -201,7 +197,6 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
       <td align="center">
         <b>ENGLISH</b>
         <br/>
-        <sub>05 · Beginner</sub>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/BEGINNER-B9A0E8?style=flat-square&labelColor=F7F0FF" alt="Beginner" />
