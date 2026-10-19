@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=¡Hola,%20soy%20Fátima%20Zahra!%20💖✨&fontSize=38&fontColor=ff69b4&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=typing&color=000000&height=180&section=header&text=¡Hola,%20soy%20Fátima%20Zahra!%20💕✨&fontSize=38&fontColor=ff69b4&animation=twinkling" width="100%" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Estudiante-DAM-ff69b4?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </p>
 
-  <!-- Separador animado de destellos/estrellas flotantes -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-892c-157948a31362.gif" width="100%" />
 
 </div>
