@@ -26,8 +26,10 @@
 
 <div align="center">
 
-  <img src="./images/cat-coding.gif" width="85%" alt="Gatito programando en su portátil" />
-</div>
+  <img src="https://media.tenor.com/m/LSDeBe2JAfoAAAAd/cat-coding.gif" width="85%" alt="Gato programando en un portátil" />
+  
+  
+  </div>
 
 ¡Hola! Soy **Fátima Zahra Yaagoub**, tengo 20 años y actualmente curso **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** 💻✨
 
