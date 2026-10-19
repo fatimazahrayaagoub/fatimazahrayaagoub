@@ -26,13 +26,7 @@
 
 <div align="center">
 
- <a href="https://tenor.com/es/view/anime-typing-gif-14680553">
-    <img
-      src="URL_DIRECTA_DEL_GIF"
-      width="85%"
-      alt="Anime Typing"
-    />
-  </a>
+  <img src="./images/anime-typing.gif" width="85%" alt="GIF anime de chica" />
 
 </div>
 
