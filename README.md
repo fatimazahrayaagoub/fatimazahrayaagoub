@@ -1,50 +1,11 @@
 <div align="center">
-  <svg viewBox="0 0 800 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .bg { fill: #000000; }
-      .title { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 38px; font-weight: bold; fill: #ff69b4; text-anchor: middle; filter: drop-shadow(0px 0px 8px #ff1493); }
-      
-      /* Animación de flotado */
-      @keyframes float {
-        0% { transform: translateY(0px) scale(1); opacity: 0.3; }
-        50% { transform: translateY(-20px) scale(1.2); opacity: 1; }
-        100% { transform: translateY(0px) scale(1); opacity: 0.3; }
-      }
-      
-      @keyframes floatSlow {
-        0% { transform: translateY(0px) rotate(0deg); opacity: 0.2; }
-        50% { transform: translateY(-35px) rotate(15deg); opacity: 0.9; }
-        100% { transform: translateY(0px) rotate(0deg); opacity: 0.2; }
-      }
 
-      .heart1 { animation: float 4s ease-in-out infinite; fill: #ff69b4; }
-      .heart2 { animation: floatSlow 6s ease-in-out infinite; fill: #ff1493; }
-      .heart3 { animation: float 5s ease-in-out infinite; fill: #ffb6c1; }
-      .star { animation: floatSlow 3s ease-in-out infinite; fill: #ffffff; }
-    </style>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=700&height=120&lines=%C2%A1Hola%2C+soy+F%C3%A1tima+Zahra!+%F0%9F%92%96;Desarrolladora+Multiplataforma+%E2%9C%A8;Bienvenid%40+a+mi+espacio+%F0%9F%8C%9F" alt="Typing SVG" />
+  </a>
 
-    <!-- Fondo Negro Espacial -->
-    <rect class="bg" width="800" height="200" rx="15"/>
-
-    <!-- Corazones y Estrellas Flotantes de Fondo -->
-    <g>
-      <!-- Corazones flotantes rosas -->
-      <path class="heart1" d="M 100 120 A 10 10 0 0 0 80 120 A 10 10 0 0 0 60 120 Q 60 140 80 155 Q 100 140 100 120 Z" />
-      <path class="heart2" d="M 720 50 A 12 12 0 0 0 696 50 A 12 12 0 0 0 672 50 Q 672 75 696 95 Q 720 75 720 50 Z" />
-      <path class="heart3" d="M 180 40 A 8 8 0 0 0 164 40 A 8 8 0 0 0 148 40 Q 148 58 164 70 Q 180 58 180 40 Z" />
-      <path class="heart1" d="M 640 140 A 9 9 0 0 0 622 140 A 9 9 0 0 0 604 140 Q 604 158 622 170 Q 640 158 640 140 Z" />
-      
-      <!-- Estrellas brillantes en el espacio -->
-      <circle class="star" cx="120" cy="40" r="2" />
-      <circle class="star" cx="250" cy="160" r="3" />
-      <circle class="star" cx="550" cy="30" r="2" />
-      <circle class="star" cx="700" cy="160" r="2.5" />
-      <circle class="star" cx="380" cy="170" r="1.5" />
-    </g>
-
-    <!-- Texto Principal -->
-    <text x="400" y="115" class="title">¡Hola, soy Fátima Zahra! 💕✨</text>
-  </svg>
+  <!-- Banner GIF continuo de espacio negro con estrellas y partículas rosas flotando -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-892c-157948a31362.gif" width="100%" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Estudiante-DAM-ff69b4?style=for-the-badge&logo=codeforces&logoColor=white" />
