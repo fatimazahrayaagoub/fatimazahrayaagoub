@@ -153,45 +153,19 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
 
 ---
 
----
-
----
+## 🗣️ Languages | Idiomas
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Gatito programador con portátil" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Meow+%F0%9F%90%BE+Coding+mode+ON;Java+%7C+Kotlin+%7C+Spring+Boot;Debugging+with+love+%F0%9F%92%97" alt="Texto animado" />
-
-# 🌍 ୨୧ Languages ୨୧
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Hola+%F0%9F%8C%B8+Hello+%F0%9F%92%97+Bonjour+%E2%9C%A8;A+world+of+languages+%F0%9F%A6%8B;Learning+something+new+every+day+%F0%9F%92%AB" alt="Texto animado" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🇲🇦_AMAZIGH-NATIVE-ff69b4?style=for-the-badge&labelColor=191624" />
-
-<img src="https://img.shields.io/badge/🇲🇦_ARABIC-NATIVE-ff69b4?style=for-the-badge&labelColor=191624" />
-
-<img src="https://img.shields.io/badge/🇪🇸_SPANISH-ADVANCED-c084fc?style=for-the-badge&labelColor=191624" />
-
-<img src="https://img.shields.io/badge/🇫🇷_FRENCH-INTERMEDIATE-c084fc?style=for-the-badge&labelColor=191624" />
-
-<img src="https://img.shields.io/badge/🇬🇧_ENGLISH-BEGINNER-9b59b6?style=for-the-badge&labelColor=191624" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="180" alt="Gatito adorable animado" />
-### 💗 Different languages, one dream ✨
-
-*Every word is a new adventure.* 🌸
+| Idioma | Nivel |
+|:---|:---|
+| 🇲🇦 Amazigh | Nativo |
+| 🇲🇦 Árabe | Nativo |
+| 🇪🇸 Español | Avanzado |
+| 🇫🇷 Francés | Intermedio |
+| 🇬🇧 Inglés | Básico |
 
 </div>
-
----
-
----
-
 
 ---
 
