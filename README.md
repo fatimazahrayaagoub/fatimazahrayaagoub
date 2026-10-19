@@ -26,7 +26,7 @@
 
 <div align="center">
   ---
-
+<img sr="anim.jpg" width="1000" alt="anim coding">
 ---
   
   </div>
