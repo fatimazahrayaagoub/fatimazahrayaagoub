@@ -26,11 +26,13 @@
 
 <div align="center">
 
-<img
- src="https://media1.tenor.com/m/14680553/AAAAC/anime-typing.gif"
- width="85%"
- alt="Anime Typing — chica anime pelirroja con gafas"
-/>
+ <a href="https://tenor.com/es/view/anime-typing-gif-14680553">
+    <img
+      src="URL_DIRECTA_DEL_GIF"
+      width="85%"
+      alt="Anime Typing"
+    />
+  </a>
 
 </div>
 
