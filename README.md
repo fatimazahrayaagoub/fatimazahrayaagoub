@@ -25,8 +25,7 @@
 ## 🌸 About me | Sobre mí
 
 <div align="center">
-
-  <img src="https://media.tenor.com/m/LSDeBe2JAfoAAAAd/cat-coding.gif" width="85%" alt="Gato programando en un portátil" />
+  <img src="images/anime-coding.png" width="400" alt="Anime coding">
   
   
   </div>
