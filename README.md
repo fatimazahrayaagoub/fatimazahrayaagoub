@@ -153,19 +153,66 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
 
 ---
 
-## 🗣️ Languages | Idiomas
+---
 
 <div align="center">
 
-| Idioma | Nivel |
-|:---|:---|
-| 🇲🇦 Amazigh | Nativo |
-| 🇲🇦 Árabe | Nativo |
-| 🇪🇸 Español | Avanzado |
-| 🇫🇷 Francés | Intermedio |
-| 🇬🇧 Inglés | Básico |
+# 🌍 ୨୧ Languages & Cat Coding ୨୧
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Gatito programador" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Meow+%F0%9F%90%BE+Coding+with+love;Java+%7C+Kotlin+%7C+Spring+Boot;Cute+cats%2C+clean+code+%F0%9F%92%97" alt="Texto animado" />
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🇲🇦_AMAZIGH-NATIVE-ff69b4?style=for-the-badge&labelColor=191624" />
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🇲🇦_ARABIC-NATIVE-ff69b4?style=for-the-badge&labelColor=191624" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🇪🇸_SPANISH-ADVANCED-c084fc?style=for-the-badge&labelColor=191624" />
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🇫🇷_FRENCH-INTERMEDIATE-c084fc?style=for-the-badge&labelColor=191624" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://img.shields.io/badge/🇬🇧_ENGLISH-BEGINNER-9b59b6?style=for-the-badge&labelColor=191624" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="180" alt="Gatito cute" />
+
+### 🎀 `while (learning) { keepCoding(); }` 💻
+
+*Little paws, big dreams, endless possibilities.* 🐾
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:c084fc,100:191624&height=100&section=footer" width="100%" />
 
 </div>
+
+---
+
 
 ---
 
