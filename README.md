@@ -154,64 +154,38 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
 ---
 
 ---
+ <div align="center">
 
-<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=୨୧+Welcome+to+my+profile+୨୧;💗+Coding+with+love;🎀+Dream+%7C+Learn+%7C+Code" alt="Texto animado rosa" />
 
-# 🌍 ୨୧ Languages & Cat Coding ୨୧
+  <p>
+    <img src="https://media.giphy.com/media/IqVm07lpnP4mSLXrMH/giphy.gif" width="220" alt="Anime girl kawaii" />
+  </p>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Gatito programador" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Meow+%F0%9F%90%BE+Coding+with+love;Java+%7C+Kotlin+%7C+Spring+Boot;Cute+cats%2C+clean+code+%F0%9F%92%97" alt="Texto animado" />
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/🇲🇦_AMAZIGH-NATIVE-ff69b4?style=for-the-badge&labelColor=191624" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/🇲🇦_ARABIC-NATIVE-ff69b4?style=for-the-badge&labelColor=191624" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/🇪🇸_SPANISH-ADVANCED-c084fc?style=for-the-badge&labelColor=191624" />
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/🇫🇷_FRENCH-INTERMEDIATE-c084fc?style=for-the-badge&labelColor=191624" />
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-<img src="https://img.shields.io/badge/🇬🇧_ENGLISH-BEGINNER-9b59b6?style=for-the-badge&labelColor=191624" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="180" alt="Gatito cute" />
-
-### 🎀 `while (learning) { keepCoding(); }` 💻
-
-*Little paws, big dreams, endless possibilities.* 🐾
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:c084fc,100:191624&height=100&section=footer" width="100%" />
+  <h2>🎀 Languages 🎀</h2>
+  <p><i>Languages I speak and learn every day ✨</i></p>
 
 </div>
 
----
+| 🌸 Language | 💖 Level |
+|:---:|:---:|
+| 🇲🇦 Amazigh | <img src="https://img.shields.io/badge/Native-FF69B4?style=flat-square" alt="Native" /> |
+| 🇲🇦 Arabic | <img src="https://img.shields.io/badge/Native-FF69B4?style=flat-square" alt="Native" /> |
+| 🇪🇸 Spanish | <img src="https://img.shields.io/badge/Advanced-C084FC?style=flat-square" alt="Advanced" /> |
+| 🇫🇷 French | <img src="https://img.shields.io/badge/Intermediate-C084FC?style=flat-square" alt="Intermediate" /> |
+| 🇬🇧 English | <img src="https://img.shields.io/badge/Beginner-9B59B6?style=flat-square" alt="Beginner" /> |
+
+<div align="center">
+
+  <h2>💻 My coding corner 💜</h2>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=450&lines=Java+%E2%98%95;Kotlin+%F0%9F%92%9C;Spring+Boot+%F0%9F%8C%B8;Keep+learning%2C+keep+growing!" alt="Tecnologías animadas" />
+
+  <p>୨୧ ──────── 🌷 ──────── ୨୧</p>
+
+  <i>✨ Little steps, big dreams, beautiful code. ✨</i>
+
+</div>
 
 
 ---
