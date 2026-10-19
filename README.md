@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fe5f55&height=180&section=header&text=¡Hola,%20soy%20Fátima%20Zahra!%20✨&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=130f40&height=180&section=header&text=¡Hola,%20soy%20Fátima%20Zahra!%20💖✨&fontSize=38&fontColor=ff69b4&animation=fadeIn" width="100%" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Estudiante-DAM-ff69b4?style=for-the-badge&logo=codeforces&logoColor=white" />
