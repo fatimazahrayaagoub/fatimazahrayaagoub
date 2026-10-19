@@ -28,8 +28,9 @@
   ---
 
   
-<img src="anim.jpg" width="1000" alt="anim coding">---
-  
+<img src="anim.jpg" width="800" height="350" alt="anim coding">  
+
+---
   </div>
 
 ¡Hola! Soy **Fátima Zahra Yaagoub**, tengo 20 años y actualmente curso **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** 💻✨
