@@ -25,9 +25,15 @@
 ## 🌸 About me | Sobre mí
 
 <div align="center">
- <a href="https://gifdb.com/gif/pc-typing-himouto-chan-im7mjlrc9w7ha230.html">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" alt="Programadora trabajando con su ordenador" />
+
+ <a href="https://giphy.com/explore/girl-coder">
+    <img
+      src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+      width="85%"
+      alt="Chica anime kawaii programando"
+    />
   </a>
+
 </div>
 
 ¡Hola! Soy **Fátima Zahra Yaagoub**, tengo 20 años y actualmente curso **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** 💻✨
