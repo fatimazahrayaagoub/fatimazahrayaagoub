@@ -26,13 +26,11 @@
 
 <div align="center">
 
- <a href="https://giphy.com/explore/girl-coder">
-    <img
-      src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-      width="85%"
-      alt="Chica anime kawaii programando"
-    />
-  </a>
+<img
+ src="https://media1.tenor.com/m/14680553/AAAAC/anime-typing.gif"
+ width="85%"
+ alt="Anime Typing — chica anime pelirroja con gafas"
+/>
 
 </div>
 
