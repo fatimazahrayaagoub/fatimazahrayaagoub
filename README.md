@@ -155,85 +155,39 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
 
 ---
 
-## 🌍 Languages | Idiomas
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Languages+connect+us+%F0%9F%92%97;Every+language+opens+a+new+world+%E2%9C%A8;Learning+without+limits+%F0%9F%8C%B8" alt="Animación de idiomas" />
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="180" alt="GIF animado" />
+
+# 🌍 ୨୧ Languages ୨୧
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Hola+%F0%9F%8C%B8+Hello+%F0%9F%92%97+Bonjour+%E2%9C%A8;A+world+of+languages+%F0%9F%A6%8B;Learning+something+new+every+day+%F0%9F%92%AB" alt="Texto animado" />
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🇲🇦_AMAZIGH-NATIVE-ff69b4?style=for-the-badge&labelColor=191624" />
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f1f2_1f1e6/512.gif" width="48" alt="Bandera de Marruecos" />
+<img src="https://img.shields.io/badge/🇲🇦_ARABIC-NATIVE-ff69b4?style=for-the-badge&labelColor=191624" />
 
-### 🇲🇦 Amazigh
+<img src="https://img.shields.io/badge/🇪🇸_SPANISH-ADVANCED-c084fc?style=for-the-badge&labelColor=191624" />
 
-<img src="https://img.shields.io/badge/Nativo-ff69b4?style=for-the-badge&labelColor=191624" />
+<img src="https://img.shields.io/badge/🇫🇷_FRENCH-INTERMEDIATE-c084fc?style=for-the-badge&labelColor=191624" />
 
-<img src="https://progress-bar.dev/100/?scale=100&title=Fluidez&width=180&color=ff69b4" alt="Nivel nativo" />
+<img src="https://img.shields.io/badge/🇬🇧_ENGLISH-BEGINNER-9b59b6?style=for-the-badge&labelColor=191624" />
 
-</td>
-<td align="center" width="50%">
+<br><br>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f1f2_1f1e6/512.gif" width="48" alt="Bandera de Marruecos" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Gatito animado programando" />
 
-### 🇲🇦 Árabe
+### 💗 Different languages, one dream ✨
 
-<img src="https://img.shields.io/badge/Nativo-ff69b4?style=for-the-badge&labelColor=191624" />
-
-<img src="https://progress-bar.dev/100/?scale=100&title=Fluidez&width=180&color=ff69b4" alt="Nivel nativo" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f1ea_1f1f8/512.gif" width="48" alt="Bandera de España" />
-
-### 🇪🇸 Español
-
-<img src="https://img.shields.io/badge/Avanzado-9b59b6?style=for-the-badge&labelColor=191624" />
-
-<img src="https://progress-bar.dev/80/?scale=100&title=Fluidez&width=180&color=9b59b6" alt="Nivel avanzado" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f1eb_1f1f7/512.gif" width="48" alt="Bandera de Francia" />
-
-### 🇫🇷 Francés
-
-<img src="https://img.shields.io/badge/Intermedio-9b59b6?style=for-the-badge&labelColor=191624" />
-
-<img src="https://progress-bar.dev/60/?scale=100&title=Fluidez&width=180&color=bb86fc" alt="Nivel intermedio" />
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f1ec_1f1e7/512.gif" width="48" alt="Bandera del Reino Unido" />
-
-### 🇬🇧 Inglés
-
-<img src="https://img.shields.io/badge/Básico-7F52FF?style=for-the-badge&labelColor=191624" />
-
-<img src="https://progress-bar.dev/35/?scale=100&title=Fluidez&width=250&color=7F52FF" alt="Nivel básico" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="80%" />
-
-*💌 Every language is a new adventure. One word at a time!* 🌸
+*Every word is a new adventure.* 🌸
 
 </div>
+
+---
 
 ---
 
