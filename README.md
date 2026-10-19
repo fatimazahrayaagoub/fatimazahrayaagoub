@@ -23,6 +23,8 @@
 ---
 
 ## 🌸 About me | Sobre mí
+
+--- 
 <div align="center">
 
 
