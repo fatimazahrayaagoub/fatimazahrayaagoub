@@ -25,7 +25,9 @@
 ## 🌸 About me | Sobre mí
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1000&q=85" width="85%" alt="Espacio de trabajo con ordenador para programar" />
+ <a href="https://gifdb.com/gif/pc-typing-himouto-chan-im7mjlrc9w7ha230.html">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" alt="Programadora trabajando con su ordenador" />
+  </a>
 </div>
 
 ¡Hola! Soy **Fátima Zahra Yaagoub**, tengo 20 años y actualmente curso **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** 💻✨
