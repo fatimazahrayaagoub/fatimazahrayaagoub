@@ -26,7 +26,6 @@
 
 <div align="center">
   ---
-<img src="anim-coding.jpg" width="800" alt="Anime coding">  
 
 ---
   
