@@ -159,7 +159,9 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
 
 <div align="center">
 
-<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="180" alt="GIF animado" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Gatito programador con portátil" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Meow+%F0%9F%90%BE+Coding+mode+ON;Java+%7C+Kotlin+%7C+Spring+Boot;Debugging+with+love+%F0%9F%92%97" alt="Texto animado" />
 
 # 🌍 ୨୧ Languages ୨୧
 
@@ -179,8 +181,7 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
 
 <br><br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Gatito animado programando" />
-
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="180" alt="Gatito adorable animado" />
 ### 💗 Different languages, one dream ✨
 
 *Every word is a new adventure.* 🌸
