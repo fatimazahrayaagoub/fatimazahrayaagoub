@@ -25,7 +25,7 @@
 ## 🌸 About me | Sobre mí
 
 <div align="center">
-  <img src="images/anime-coding.png" width="400" alt="Anime coding">
+  <img src="images/anim-coding.png" width="400" alt="Anime coding">
   
   
   </div>
