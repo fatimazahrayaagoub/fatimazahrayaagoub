@@ -152,38 +152,68 @@ Diseño de bases de datos relacionales, consultas SQL y gestión de información
 | 2025 – Actualidad | IES Juan Bosco | Grado Superior en Desarrollo de Aplicaciones Multiplataforma |
 
 ---
-
----
  <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=୨୧+Welcome+to+my+profile+୨୧;💗+Coding+with+love;🎀+Dream+%7C+Learn+%7C+Code" alt="Texto animado rosa" />
+  <h2>୨୧ Languages ୨୧</h2>
 
-  <p>
-    <img src="https://media.giphy.com/media/IqVm07lpnP4mSLXrMH/giphy.gif" width="220" alt="Anime girl kawaii" />
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <b>AMAZIGH</b>
+        <br/>
+        <sub>01 · Native</sub>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/NATIVE-F4A7C5?style=flat-square&labelColor=FFF0F6" alt="Native" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>ARABIC</b>
+        <br/>
+        <sub>02 · Native</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/NATIVE-F4A7C5?style=flat-square&labelColor=FFF0F6" alt="Native" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>SPANISH</b>
+        <br/>
+        <sub>03 · Advanced</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/ADVANCED-C5A3F5?style=flat-square&labelColor=F7F0FF" alt="Advanced" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>FRENCH</b>
+        <br/>
+        <sub>04 · Intermediate</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/INTERMEDIATE-C5A3F5?style=flat-square&labelColor=F7F0FF" alt="Intermediate" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>ENGLISH</b>
+        <br/>
+        <sub>05 · Beginner</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/BEGINNER-B9A0E8?style=flat-square&labelColor=F7F0FF" alt="Beginner" />
+      </td>
+    </tr>
+  </table>
 
-  <h2>🎀 Languages 🎀</h2>
-  <p><i>Languages I speak and learn every day ✨</i></p>
+  <br/>
 
-</div>
-
-| 🌸 Language | 💖 Level |
-|:---:|:---:|
-| 🇲🇦 Amazigh | <img src="https://img.shields.io/badge/Native-FF69B4?style=flat-square" alt="Native" /> |
-| 🇲🇦 Arabic | <img src="https://img.shields.io/badge/Native-FF69B4?style=flat-square" alt="Native" /> |
-| 🇪🇸 Spanish | <img src="https://img.shields.io/badge/Advanced-C084FC?style=flat-square" alt="Advanced" /> |
-| 🇫🇷 French | <img src="https://img.shields.io/badge/Intermediate-C084FC?style=flat-square" alt="Intermediate" /> |
-| 🇬🇧 English | <img src="https://img.shields.io/badge/Beginner-9B59B6?style=flat-square" alt="Beginner" /> |
-
-<div align="center">
-
-  <h2>💻 My coding corner 💜</h2>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=450&lines=Java+%E2%98%95;Kotlin+%F0%9F%92%9C;Spring+Boot+%F0%9F%8C%B8;Keep+learning%2C+keep+growing!" alt="Tecnologías animadas" />
-
-  <p>୨୧ ──────── 🌷 ──────── ୨୧</p>
-
-  <i>✨ Little steps, big dreams, beautiful code. ✨</i>
+  <sub>───────── ୨୧ ─────────</sub>
+  <br/>
+  <i>Learning • Growing • Creating</i>
 
 </div>
 
