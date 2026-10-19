@@ -1,96 +1,197 @@
+<!-- ✨ HEADER ANIMADO -->
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=700&height=120&lines=%C2%A1Hola%2C+soy+F%C3%A1tima+Zahra!+%F0%9F%92%96;Desarrolladora+Multiplataforma+%E2%9C%A8;Bienvenid%40+a+mi+espacio+%F0%9F%8C%9F" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ff69b4,50:9b59b6,100:191624&text=Fatima%20Zahra%20Yaagoub&fontColor=ffffff&fontSize=36&fontAlignY=45&desc=Developer%20in%20progress%20%F0%9F%8C%B8&descSize=17&descAlignY=65&animation=fadeIn" width="100%" />
 
-  <!-- Banner GIF continuo de espacio negro con estrellas y partículas rosas flotando -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-892c-157948a31362.gif" width="100%" />
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Estudiante-DAM-ff69b4?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  </p>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Fatima+Zahra+%F0%9F%92%97;Estudiante+de+Desarrollo+Multiplataforma;Java+%7C+Kotlin+%7C+Spring+Boot;Aprendiendo%2C+creando+y+creciendo+%E2%9C%A8" alt="Texto animado de presentación" />
 
 <br>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Sobre mí
+<img src="https://img.shields.io/badge/🎀_DAM_Student-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☕_Java-9b59b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💜_Kotlin-7F52FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌱_Spring_Boot-6DB33F?style=for-the-badge" />
 
-Soy **Fatima Zahra Yaagoub**, tengo 20 años y actualmente soy estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** 💻. 
+<br><br>
 
-Me apasiona el desarrollo porque me permite crear soluciones útiles, aprender nuevas tecnologías y transformar ideas en proyectos reales. Me considero una persona **creativa, organizada y con muchas ganas de superarme cada día** 🌸.
+<a href="https://github.com/fatimazahrayaagoub">
+<img src="https://komarev.com/ghpvc/?username=fatimazahrayaagoub&style=for-the-badge&color=ff69b4&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+</a>
 
-> 💼 **[¡Conecta conmigo en LinkedIn!](https://www.linkedin.com/in/f%C3%A1tima-zahra-yaagoub-491a53388/)**
-
----
-
-## 🎓 Formación Académica
-
-| Período | Centro Educativo | Titulación |
-| :--- | :--- | :--- |
-| **09/2021 - 07/2023** | **IES VALDEHIERRO** (Madridejos) | Educación Secundaria Obligatoria |
-| **09/2023 - 07/2025** | **IES CONSABURUM** (Consuegra) | Bachillerato |
-| **09/2025 - Actualidad** | **IES JUAN BOSCO** (Alcázar de San Juan) | Grado Superior en Desarrollo de Aplicaciones Multiplataforma |
+</div>
 
 ---
 
-## 💡 Habilidades y Tecnologías
+## 🌸 About me | Sobre mí
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<div align="center">
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1000&q=85" width="85%" alt="Espacio de trabajo con ordenador para programar" />
+</div>
 
-- 🌸 **Soft Skills:** Creativa • Responsable • Organizada • Orientada a la resolución de problemas • Capacidad de aprendizaje rápido
+¡Hola! Soy **Fátima Zahra Yaagoub**, tengo 20 años y actualmente curso **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** 💻✨
 
----
+Me encanta el mundo de la programación, crear soluciones útiles y convertir ideas en proyectos reales. Cada día busco aprender algo nuevo, mejorar mis habilidades y crecer como desarrolladora.
 
-## 🚀 Proyectos Destacados
-
-- 🌐 **Página Web Estática:** Diseño responsive desarrollado con **HTML y CSS**.
-- ☕ **Aplicaciones de Gestión Backend:** Desarrollo robusto con **Java** y **Spring Boot**.
-- 📱 **Desarrollo Moderno con Kotlin:** Proyectos aplicando las últimas funcionalidades de **Kotlin**.
-- 🗄️ **Bases de Datos Relacionales:** Diseño, gestión y optimización de datos con **MariaDB**.
-
----
-
-## 🗣️ Idiomas
-
-- 🇲🇦 **Amazigh:** Nativo
-- 🇲🇦 **Árabe:** Nativo
-- 🇪🇸 **Español:** Avanzado
-- 🇫🇷 **Francés:** Intermedio
-- 🇬🇧 **Inglés:** Básico
-
----
+- 🎓 Estudiante de DAM.
+- ☕ Aprendiendo y practicando Java.
+- 💜 Explorando Kotlin y el desarrollo multiplataforma.
+- 🌱 Profundizando en Spring Boot y el desarrollo backend.
+- 🎨 Disfruto creando proyectos y cuidando los detalles.
+- 🤝 Abierta a colaborar, compartir conocimientos y aprender en equipo.
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-892c-157948a31362.gif" width="100%" />
+### 💌 Let's connect!
 
-  <br>
+<a href="https://www.linkedin.com/in/f%C3%A1tima-zahra-yaagoub-491a53388/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectemos-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/fatimazahrayaagoub">
+<img src="https://img.shields.io/badge/GitHub-Mi_perfil-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <a href="https://github.com/fatimazahrayaagoub">
-    <img src="https://img.shields.io/badge/GitHub-fatimazahrayaagoub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/f%C3%A1tima-zahra-yaagoub-491a53388/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fátima_Zahra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+</div>
 
-  <br><br>
+---
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fe5f55&height=100&section=footer" width="100%" />
+## 🛠️ Tech stack | Tecnologías
+
+<div align="center">
+
+### 💻 Programming languages
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,html,css&theme=dark" alt="Java, Kotlin, HTML y CSS" />
+
+### ⚙️ Backend & databases
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,mariadb&theme=dark" alt="Spring, MySQL y MariaDB" />
+
+### 🎨 Tools & workflow
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github&theme=dark" alt="IntelliJ IDEA, VS Code, Git y GitHub" />
+
+</div>
+
+---
+
+## 🚀 Projects | Proyectos
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web development
+
+<img src="https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+Creación de páginas web con diseños atractivos, estructuras claras y estilos responsive.
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java & Spring Boot
+
+<img src="https://img.shields.io/badge/Backend_Development-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+
+Aprendizaje y desarrollo de aplicaciones backend, lógica de negocio y servicios.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💜 Kotlin
+
+<img src="https://img.shields.io/badge/Kotlin_Projects-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+
+Exploración del lenguaje Kotlin y creación de aplicaciones para poner en práctica mis conocimientos.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+
+Diseño de bases de datos relacionales, consultas SQL y gestión de información.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> 💡 *Esta sección recoge mis áreas de trabajo y aprendizaje. Añadiré enlaces a mis repositorios cuando publique cada proyecto.*
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fatimazahrayaagoub&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff69b4&icon_color=bb86fc&include_all_commits=true" alt="Estadísticas de GitHub" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazahrayaagoub&layout=compact&theme=tokyonight&hide_border=true&title_color=ff69b4" alt="Lenguajes más utilizados" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=fatimazahrayaagoub&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="Racha de actividad en GitHub" width="70%" />
+
+</div>
+
+---
+
+## 🎓 Education | Formación académica
+
+| 📅 Período | 🏫 Centro | 🎓 Titulación |
+|:---|:---|:---|
+| 2021 – 2023 | IES Valdehierro | Educación Secundaria Obligatoria |
+| 2023 – 2025 | IES Consaburum | Bachillerato |
+| 2025 – Actualidad | IES Juan Bosco | Grado Superior en Desarrollo de Aplicaciones Multiplataforma |
+
+---
+
+## 🗣️ Languages | Idiomas
+
+<div align="center">
+
+| Idioma | Nivel |
+|:---|:---|
+| 🇲🇦 Amazigh | Nativo |
+| 🇲🇦 Árabe | Nativo |
+| 🇪🇸 Español | Avanzado |
+| 🇫🇷 Francés | Intermedio |
+| 🇬🇧 Inglés | Básico |
+
+</div>
+
+---
+
+## 🎯 My goals | Mis objetivos
+
+- [ ] 📚 Seguir mejorando mis habilidades de programación.
+- [ ] 💻 Crear proyectos personales cada vez más completos.
+- [ ] ☕ Profundizar en Java y Spring Boot.
+- [ ] 💜 Mejorar mis conocimientos de Kotlin.
+- [ ] 🤝 Colaborar en proyectos y ganar experiencia profesional.
+- [ ] 🌍 Construir un portfolio que refleje mi evolución como desarrolladora.
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Saludo animado" />
+
+### 💗 Thanks for visiting my profile!
+
+*Learning every day, coding with passion and growing step by step.* ✨
+
+<a href="https://github.com/fatimazahrayaagoub">
+<img src="https://img.shields.io/badge/Made_with_💗_by-Fatima_Zahra-ff69b4?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:9b59b6,100:191624&height=120&section=footer" width="100%" />
 
 </div>
