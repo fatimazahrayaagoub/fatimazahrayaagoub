@@ -15,7 +15,7 @@
 <br><br>
 
 <a href="https://github.com/fatimazahrayaagoub">
-<img src="https://komarev.com/ghpvc/?username=fatimazahrayaagoub&style=for-the-badge&color=ff69b4&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=fátimazahrayaagoub&style=for-the-badge&color=ff69b4&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
 </a>
 
 </div>
