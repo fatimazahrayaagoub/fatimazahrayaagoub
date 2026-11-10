@@ -1,7 +1,7 @@
 <!-- ✨ HEADER ANIMADO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ff69b4,50:9b59b6,100:191624&text=Fatima%20Zahra%20Yaagoub&fontColor=ffffff&fontSize=36&fontAlignY=45&desc=Developer%20in%20progress%20%F0%9F%8C%B8&descSize=17&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ff69b4,50:9b59b6,100:191624&text=Fátima%20Zahra%20Yaagoub&fontColor=ffffff&fontSize=36&fontAlignY=45&desc=Developer%20in%20progress%20%F0%9F%8C%B8&descSize=17&descAlignY=65&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Fatima+Zahra+%F0%9F%92%97;Estudiante+de+Desarrollo+Multiplataforma;Java+%7C+Kotlin+%7C+Spring+Boot;Aprendiendo%2C+creando+y+creciendo+%E2%9C%A8" alt="Texto animado de presentación" />
 
